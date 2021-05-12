@@ -3,6 +3,8 @@
 // This code sniped will allow us to replace the values on a form before sending the email
 // so we can modify and update the email and provide additional details.
 
+// Works great for Contact Form 7 plugin that is installed with elementor
+
 // This as part of a customer requirement to include a google maps link formed using the address fields
 
 // We can use Google Maps to make a search with the values provided on the address field. The search action displays results for a search across the visible map region. When searching for a specific place, the resulting map puts a pin in the specified location and displays available place details. Forming the Search URL
